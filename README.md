@@ -7,8 +7,8 @@
   ###
   
   <div align="center">
-    <a href="https://www.linkedin.com/in/khushi-bharti-577865290" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=AM&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/khushi-bharti-577865290" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=AM&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
     
   </div>
